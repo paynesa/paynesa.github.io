@@ -18,8 +18,14 @@
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-desktop.css" />
 		</noscript>
+		<style type="text/css">
+			body {
+            opacity: 0;
+            transition: opacity 2s;
+        }
+		</style>
 	</head>
-	<body class="homepage">
+	<body class="homepage" onload="document.body.style.opacity='1'">
 
 	<!-- Header -->
 		<div id="header">
