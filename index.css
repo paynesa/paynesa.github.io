@@ -58,7 +58,7 @@
     text-decoration: none;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 600px) {
     .profile{
         width: 70vw;
         height: 70vw;
@@ -71,7 +71,7 @@
     }
 }
 
-@media (min-width: 401px) {
+@media (min-width: 601px) {
     .profile{
         width: 20vw;
         height: 20vw;
