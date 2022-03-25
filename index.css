@@ -5,6 +5,13 @@
     margin-top: 1vh;
 }
 
+.a{
+    color: saddlebrown;
+}
+.a:hover{
+    color: brown;
+}
+
 .h2{
     font-family: Arial;
     font-weight: lighter;
