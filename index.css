@@ -24,6 +24,7 @@
     font-family: Arial;
     font-weight: lighter;
     margin-top: 1vh;
+    align-self: flex-start;
 }
 
 .profile{
