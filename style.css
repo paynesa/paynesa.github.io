@@ -1,5 +1,5 @@
 .h1{
-    font-family: "DejaVu Sans";
+    font-family: Arial;
     text-align: center;
     margin-top: 1vh;
     font-weight: bold;
@@ -13,7 +13,7 @@
 }
 
 .h2{
-    font-family: "DejaVu Sans";
+    font-family: Arial;
     font-weight: lighter;
     text-align: center;
     color: darkgrey;
@@ -21,7 +21,7 @@
 }
 
 .h3{
-    font-family: "DejaVu Sans Condensed";
+    font-family: Arial;
     font-size: 1.5em;
     color: brown;
     text-align: center;
@@ -29,7 +29,7 @@
 }
 
 .h4{
-    font-family: "DejaVu Sans Condensed";
+    font-family: Arial;
     font-size: 1.5em;
     color: brown;
     align-self: flex-start;
@@ -38,14 +38,14 @@
     margin-bottom: 0;
 }
 .p{
-    font-family: "DejaVu Sans";
+    font-family: Arial;
     margin-top: 1.5vh;
     align-self: flex-start;
     margin-bottom: 0;
 }
 
 .p2{
-    font-family: "DejaVu Sans";
+    font-family: Arial;
     margin-left: 3vw;
     align-self: flex-start;
     color: darkred;
@@ -53,7 +53,7 @@
 }
 
 .pc{
-    font-family: "DejaVu Sans";
+    font-family: Arial;
     margin-top: 1vh;
     align-self: center;
 }
