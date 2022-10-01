@@ -54,7 +54,14 @@
     margin-bottom: 0;
     font-weight: lighter;
 }
+.nav-link{
+    font-family: Arial;
+}
 
+
+.navbar-brand{
+    font-family: Arial;
+}
 .pc{
     font-family: Arial;
     margin-top: 1vh;
