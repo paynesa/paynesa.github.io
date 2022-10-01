@@ -42,6 +42,8 @@
     margin-top: 1.5vh;
     align-self: flex-start;
     margin-bottom: 0;
+    font-weight: lighter;
+    font-size: 1.05em;
 }
 
 .p2{
@@ -50,12 +52,14 @@
     align-self: flex-start;
     color: darkred;
     margin-bottom: 0;
+    font-weight: lighter;
 }
 
 .pc{
     font-family: Arial;
     margin-top: 1vh;
     align-self: center;
+    font-size: 1.1em;
 }
 .fa-github:hover{
     color: brown;
