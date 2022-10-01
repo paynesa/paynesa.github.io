@@ -1,8 +1,8 @@
 .h1{
-    font-family: Arial;
-    font-weight: lighter;
+    font-family: "DejaVu Sans";
     text-align: center;
     margin-top: 1vh;
+    font-weight: bold;
 }
 
 .a{
@@ -13,25 +13,48 @@
 }
 
 .h2{
-    font-family: Arial;
+    font-family: "DejaVu Sans";
     font-weight: lighter;
     text-align: center;
     color: darkgrey;
     margin-bottom: 2vh;
 }
 
+.h3{
+    font-family: "DejaVu Sans Condensed";
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-bottom: 2vh;
+}
 .p{
-    font-family: Arial;
-    font-weight: lighter;
+    font-family: "DejaVu Sans";
     margin-top: 1vh;
     align-self: flex-start;
 }
 
 .pc{
-    font-family: Arial;
-    font-weight: lighter;
+    font-family: "DejaVu Sans";
     margin-top: 1vh;
     align-self: center;
+}
+.fa-github:hover{
+    color: brown;
+}
+.fa-twitter:hover{
+    color:brown;
+}
+.ai-google-scholar:hover{
+    color:brown;
+}
+.ai-semantic-scholar:hover{
+    color:brown;
+}
+.fa-envelope:hover{
+    color:brown;
+}
+.fa-linkedin:hover{
+    color:brown;
 }
 
 .profile{
@@ -47,6 +70,7 @@
     justify-content: center;
     text-align: center;
     width:fit-content;
+    height: fit-content;
 }
 
 .main_col{
