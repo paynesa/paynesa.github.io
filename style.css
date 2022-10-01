@@ -1,0 +1,148 @@
+.h1{
+    font-family: "DejaVu Sans";
+    text-align: center;
+    margin-top: 1vh;
+    font-weight: bold;
+}
+
+.a{
+    color: saddlebrown;
+}
+.a:hover{
+    color: brown;
+}
+
+.h2{
+    font-family: "DejaVu Sans";
+    font-weight: lighter;
+    text-align: center;
+    color: darkgrey;
+    margin-bottom: 2vh;
+}
+
+.h3{
+    font-family: "DejaVu Sans Condensed";
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+    margin-bottom: 2vh;
+}
+
+.h4{
+    font-family: "DejaVu Sans Condensed";
+    font-size: 1.5em;
+    color: brown;
+    align-self: flex-start;
+    font-weight: bold;
+    margin-top: 3vh;
+    margin-bottom: 0;
+}
+.p{
+    font-family: "DejaVu Sans";
+    margin-top: 1.5vh;
+    align-self: flex-start;
+    margin-bottom: 0;
+}
+
+.p2{
+    font-family: "DejaVu Sans";
+    margin-left: 3vw;
+    align-self: flex-start;
+    color: darkred;
+    margin-bottom: 0;
+}
+
+.pc{
+    font-family: "DejaVu Sans";
+    margin-top: 1vh;
+    align-self: center;
+}
+.fa-github:hover{
+    color: brown;
+}
+.fa-twitter:hover{
+    color:brown;
+}
+.ai-google-scholar:hover{
+    color:brown;
+}
+.ai-semantic-scholar:hover{
+    color:brown;
+}
+.fa-envelope:hover{
+    color:brown;
+}
+.fa-linkedin:hover{
+    color:brown;
+}
+
+.profile{
+    object-fit: cover;
+    border-radius: 1000px;
+    justify-content: center;
+}
+
+.my_div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width:fit-content;
+    height: fit-content;
+}
+
+.main_col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5vw;
+}
+
+.wide_col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    margin-bottom: 5vw;
+}
+
+.icons {
+    color: black;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.icons:link{
+    text-decoration: none;
+}
+
+
+@media (orientation: portrait) {
+    .profile{
+        width: 70vw;
+        height: 70vw;
+    }
+    .main_col{
+        width: 90vw;
+    }
+    .icons{
+        margin-bottom: 20px;
+    }
+}
+
+@media (orientation: landscape) {
+    .profile{
+        width: 20vw;
+        height: 20vw;
+    }
+    .main_col{
+        width: 55vw;
+    }
+    .icons{
+        margin-bottom: 0px;
+    }
+
+}
