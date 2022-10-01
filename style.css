@@ -42,7 +42,6 @@
     margin-top: 1.5vh;
     align-self: flex-start;
     margin-bottom: 0;
-    font-weight: lighter;
     font-size: 1.05em;
 }
 
@@ -52,7 +51,6 @@
     align-self: flex-start;
     color: darkred;
     margin-bottom: 0;
-    font-weight: lighter;
 }
 .nav-link{
     font-family: Arial;
