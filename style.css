@@ -6,24 +6,17 @@
 }
 
 .a{
-    color: saddlebrown;
+    color: #05559F;
 }
 .a:hover{
-    color: brown;
+    color: #4585C1;
 }
 
-.h2{
-    font-family: Arial;
-    font-weight: lighter;
-    text-align: center;
-    color: darkgrey;
-    margin-bottom: 2vh;
-}
 
 .h3{
     font-family: Arial;
     font-size: 1.5em;
-    color: brown;
+    color: #9F0511;
     text-align: center;
     margin-bottom: 2vh;
 }
@@ -31,7 +24,7 @@
 .h4{
     font-family: Arial;
     font-size: 1.5em;
-    color: brown;
+    color: #9F0511;
     align-self: flex-start;
     font-weight: bold;
     margin-top: 3vh;
@@ -67,22 +60,22 @@
     font-size: 1.1em;
 }
 .fa-github:hover{
-    color: brown;
+    color: cornflowerblue;
 }
 .fa-twitter:hover{
-    color:brown;
+    color:cornflowerblue;
 }
 .ai-google-scholar:hover{
-    color:brown;
+    color:cornflowerblue;
 }
 .ai-semantic-scholar:hover{
-    color:brown;
+    color:cornflowerblue;
 }
 .fa-envelope:hover{
-    color:brown;
+    color:cornflowerblue;
 }
 .fa-linkedin:hover{
-    color:brown;
+    color:cornflowerblue;
 }
 
 .profile{
@@ -115,7 +108,7 @@
     align-items: center;
     justify-content: center;
     width: 90vw;
-    margin-bottom: 5vw;
+    /*margin-bottom: 5vw;*/
 }
 
 .icons {
@@ -127,7 +120,9 @@
 .icons:link{
     text-decoration: none;
 }
-
+.row{
+    margin-bottom: 5vw;
+}
 
 @media (orientation: portrait) {
     .profile{
