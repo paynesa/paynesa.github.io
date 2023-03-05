@@ -3,10 +3,11 @@
     text-align: center;
     margin-top: 1vh;
     font-weight: bold;
+    color: #2c036e;
 }
 
 .a{
-    color: #05559F;
+    color: #5f36a1;
 }
 .a:hover{
     color: #4585C1;
@@ -16,7 +17,7 @@
 .h3{
     font-family: Arial;
     font-size: 1.5em;
-    color: #9F0511;
+    color: #307467;
     text-align: center;
     margin-bottom: 2vh;
 }
@@ -24,7 +25,7 @@
 .h4{
     font-family: Arial;
     font-size: 1.5em;
-    color: #9F0511;
+    color: #307467;
     align-self: flex-start;
     font-weight: bold;
     margin-top: 3vh;
@@ -41,7 +42,7 @@
 .p2{
     font-family: Arial;
     align-self: flex-start;
-    color: darkred;
+    color: #3d216e;
     margin-bottom: 0;
 }
 .nav-link{
